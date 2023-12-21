@@ -1,1 +1,1 @@
-# Network_Design
+Group Project where we implemented a network design in Microsoft Visio for a city library in Peoria. The design includes security cameras, CAT6A cable, fiber optic cable, and wired and wireless connections. The main purpose of the project is to ensure security and provides functioning technology in the library. 
